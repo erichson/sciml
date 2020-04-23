@@ -1,9 +1,43 @@
 ---
-title: Welcome to my website
+title:
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
+feature_image: "https://raw.githubusercontent.com/erichson/sciml/master/img/logo.png"
+feature_text:
 ---
 
-There isn't much going on here yet, but watch this space
+## 1st Workshop on Scietific-Driven Machine Learning (SciML)
+### Date: July 15, 2020 --- Location: Zoom
+
+
+Machine learning is playing a growing role in the area of fluid dynamics, climate science and in many other scientific disciplines. Classically, the field of machine learning has focused on an model agnostic learning approaches ignoring any prior knowledge that is known about the problem under consideration. However, limited data can severely challenge our ability to train complex and deep models for scientific applications. This workshop focuses on scietific-driven machine learning to explore challenges and solutions for more robust and interpretable learning.
+
+### Schedule
+---
+TBD
+
+### Invited Speakers
+---
+* Tess Smidt, LBL
+* Omri Azencot, UCLA
+* Lars Ruthotto, Emory University
+* Yasaman Bahri, Google Brain
+* Alejandro Queiruga, Google
+* Elizabeth Qian, MIT
+* TBD
+* TBD
+* TBD
+* TBD
+* TBD
+* TBD
+* TBD
+* TBD
+* TBD
+
+
+### Organizers 
+---
+* N. Benjamin Erichson, UC Berkeley
+* Michael W. Mahoney, UC Berkeley
+* Steven L. Brunton, Univeristy of Washington
+* J. Nathan Kutz, Univeristy of Washington
+
