@@ -21,8 +21,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'SciML'
+description: '1st Workshop on Scietific-Driven Machine Learning'
 permalink: pretty
 #logo: ""
 
