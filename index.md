@@ -6,7 +6,7 @@ feature_text:
 ---
 
 ## 1st Workshop on Scietific-Driven Machine Learning (SciML)
-### Date: July 15, 2020 --- Location: Zoom
+### Date: July 1, 2020 --- Location: Zoom
 
 
 Machine learning is playing a growing role in the area of fluid dynamics, climate science and in many other scientific disciplines. Classically, the field of machine learning has focused on an model agnostic learning approaches ignoring any prior knowledge that is known about the problem under consideration. However, limited data can severely challenge our ability to train complex and deep models for scientific applications. This workshop focuses on scietific-driven machine learning to explore challenges and solutions for more robust and interpretable learning.
