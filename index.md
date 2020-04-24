@@ -19,19 +19,7 @@ TBD
 ---
 To be announced soon.
 
-#* Lars Ruthotto, Emory University
-#* Yasaman Bahri, Google Brain
-#* Alejandro Queiruga, Google
-#* Elizabeth Qian, MIT
-#* TBD
-#* TBD
-#* TBD
-#* TBD
-#* TBD
-#* TBD
-#* TBD
-#* TBD
-#* TBD
+
 
 
 ### Organizers 
