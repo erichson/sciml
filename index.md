@@ -5,7 +5,7 @@ feature_image: "https://raw.githubusercontent.com/erichson/sciml/master/img/logo
 feature_text:
 ---
 
-## 1st Workshop on Scietific-Driven Machine Learning (SciML)
+## 1st Workshop on Scientific-Driven Machine Learning (SciML)
 ### Date: July 1, 2020 --- Location: Zoom
 
 
@@ -17,9 +17,20 @@ TBD
 
 ### Invited Speakers
 ---
-To be announced soon.
 
-
+* Lars Ruthotto, Emory University
+* Yasaman Bahri, Google Brain
+* Alejandro Queiruga, Google
+* Elizabeth Qian, MIT
+* TBD
+* TBD
+* TBD
+* TBD
+* TBD
+* TBD
+* TBD
+* TBD
+* TBD
 
 
 ### Organizers 
