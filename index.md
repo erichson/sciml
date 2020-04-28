@@ -5,7 +5,7 @@ feature_image: "https://raw.githubusercontent.com/erichson/sciml/master/img/logo
 feature_text:
 ---
 
-## 1st Workshop on Scientific-Driven Machine Learning (SciML)
+## 1st Workshop on Scientific-Driven Deep Learning (SciDL)
 ### Date: July 1, 2020 --- Location: Zoom
 
 
