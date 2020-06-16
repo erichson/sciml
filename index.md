@@ -22,15 +22,13 @@ TBD
 * Yasaman Bahri, Google Brain
 * Alejandro Queiruga, Google
 * Elizabeth Qian, MIT
+* Tess Smidt, LBL
+* Omri Azencot, UCLA
 * TBD
 * TBD
 * TBD
-* TBD
-* TBD
-* TBD
-* TBD
-* TBD
-* TBD
+
+
 
 
 ### Organizers 
@@ -38,7 +36,6 @@ TBD
 * N. Benjamin Erichson, UC Berkeley
 * Michael W. Mahoney, UC Berkeley
 * Tess Smidt, LBL
-* Omri Azencot, UCLA
-* Steven L. Brunton, Univeristy of Washington
-* J. Nathan Kutz, Univeristy of Washington
+* Steven L. Brunton, University of Washington
+* J. Nathan Kutz, University of Washington
 
