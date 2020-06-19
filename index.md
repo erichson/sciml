@@ -34,22 +34,8 @@ feature_text:
 ##### Schedule
 ---
 
-| Time (PST)    | Speaker   			  	| Title                                 | 
-| :-----------: | :-----------------------------: 	|:-------------------------------------:|
-| 08:00-8:10    |              			  	| Opening remarks                       |
-| 08:10-9:00    | George Em Karniadakis           	| TBD                                   |
-| 09:00-9:25    | Tess Smidt         			| Euclidean Neural Networks for Emulating Ab Initio Calculations and Generating Atomic Geometries            |
-| 09:25-9:50    | Alejandro Queiruga         		| Continuous-in-Depth Neural Networks            |
-| 09:50-10:15   | Elizabeth Qian         		| Lift & Learn: Analyzable, Generalizable Data-Driven Models for Nonlinear PDEs            |
-| 10:15-10:40   | Noe Frank         			| TBD            |
-|  |          				|             		|
-| Lunch break   |          				|             		|
-|  |          				|             		|
-| 12:00-12:50   | Michael P. Brenner              	| TBD                                   |
-| 12:50-13:15   | Yasaman Bahri         		| Learning Dynamics of Wide, Deep Neural Networks: Beyond the Limit of Infinite Width            |
-| 13:15-13:40   | Lars Ruthotto         		| Deep Neural Networks Motivated by PDEs            |
-| 13:40-14:05   | Omri Azencot         			| Robust Prediction of High-Dimensional Dynamical Systems using Koopman Deep Networks             |
-| 14:05-14:30   | TBD         				| TBD            |
+<div class="embeddable_schedule" shortname="SciDL" daterange="future" sitefooter></div>
+<script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
 
 ***
 
