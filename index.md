@@ -37,7 +37,7 @@ feature_text:
 | Time (PST)    | Speaker   			  	| Title                                 | 
 | :-----------: | :-----------------------------: 	|:-------------------------------------:|
 | 08:00-8:10    |              			  	| Opening remarks                       |
-| 08:00-9:00    | George Em Karniadakis           	| TBD                                   |
+| 08:10-9:00    | George Em Karniadakis           	| TBD                                   |
 | 09:00-9:25    | Tess Smidt         			| Euclidean Neural Networks for Emulating Ab Initio Calculations and Generating Atomic Geometries            |
 | 09:25-9:50    | Alejandro Queiruga         		| Continuous-in-Depth Neural Networks            |
 | 09:50-10:15   | Elizabeth Qian         		| Lift & Learn: Analyzable, Generalizable Data-Driven Models for Nonlinear PDEs            |
