@@ -14,6 +14,9 @@ feature_text:
 <p style='text-align: justify;'> Deep learning is playing a growing role in the area of fluid dynamics, climate science and in many other scientific disciplines. Classically, deep learning has focused on an model agnostic learning approaches ignoring any prior knowledge that is known about the problem under consideration. However, limited data can severely challenge our ability to train complex and deep models for scientific applications. This workshop focuses on scietific-driven deep learning to explore challenges and solutions for more robust and interpretable learning.
  </p>
 
+<div class="embeddable_schedule" shortname="SciDL" daterange="future" sitefooter></div>
+<script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
+
 
 ##### Key Note Speakers
 * [George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) (Brown University)
@@ -28,20 +31,6 @@ feature_text:
 * [Tess Smidt](https://crd.lbl.gov/departments/computational-science/ccmc/staff/alvarez-fellows/tess-smidt/) (LBL)
 * [Alejandro Queiruga](https://afqueiruga.github.io/) (Google, LLC)
 * [Elizabeth Qian](https://sites.google.com/view/elizabeth-qian/) (MIT)
-
-
-
-##### Schedule
----
-
-<div class="embeddable_schedule" shortname="SciDL" daterange="future" sitefooter></div>
-<script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
-
-***
-
-
-
-
 
 ##### Organizers 
 * [N. Benjamin Erichson](https://www.benerichson.com/) (UC Berkeley)
