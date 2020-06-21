@@ -11,7 +11,7 @@ feature_text:
 ##### Location: Zoom
 ##### Register here: [https://forms.gle/o1WCSBTbeoahj5ww8](https://forms.gle/o1WCSBTbeoahj5ww8)
 ***
-<p style='text-align: justify;'> Deep learning is playing a growing role in the area of fluid dynamics, climate science and in many other scientific disciplines. Classically, deep learning has focused on an model agnostic learning approaches ignoring any prior knowledge that is known about the problem under consideration. However, limited data can severely challenge our ability to train complex and deep models for scientific applications. This workshop focuses on scietific-driven deep learning to explore challenges and solutions for more robust and interpretable learning.
+<p style='text-align: justify;'> Deep learning is playing a growing role in the area of fluid dynamics, climate science and in many other scientific disciplines. Classically, deep learning has focused on an model agnostic learning approaches ignoring any prior knowledge that is known about the problem under consideration. However, limited data can severely challenge our ability to train complex and deep models for scientific applications. This workshop focuses on scientific-driven deep learning to explore challenges and solutions for more robust and interpretable learning.
  </p>
 
 <div class="embeddable_schedule" shortname="SciDL" daterange="future" sitefooter></div>
