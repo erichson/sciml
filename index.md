@@ -28,7 +28,7 @@ feature_text:
 * [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot/) (Emory University)
 * [Yasaman Bahri](https://yasamanb.github.io/) (Google Brain)
 * [Omri Azencot](http://omriazencot.com/) (UCLA)
-* [Tess Smidt](https://crd.lbl.gov/departments/computational-science/ccmc/staff/alvarez-fellows/tess-smidt/) (LBL)
+* [Michael Muehlebach](https://sites.google.com/view/mmuehlebach) (UC Berkeley)
 * [Alejandro Queiruga](https://afqueiruga.github.io/) (Google, LLC)
 * [Elizabeth Qian](https://sites.google.com/view/elizabeth-qian/) (MIT)
 
