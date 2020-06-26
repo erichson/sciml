@@ -24,7 +24,7 @@ feature_text:
 
 
 ##### Invited Speakers
-* [Noe Frank](http://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/) (FU Berlin)
+* [Frank Noe](http://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/) (FU Berlin)
 * [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot/) (Emory University)
 * [Yasaman Bahri](https://yasamanb.github.io/) (Google Brain)
 * [Omri Azencot](http://omriazencot.com/) (UCLA)
