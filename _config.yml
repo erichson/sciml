@@ -22,7 +22,7 @@ plugins:
 url: 'https://scidl.netlify.app/'
 baseurl: ''
 title: 'SciDL'
-description: '1st Workshop on Scietific-Driven Deep Learning'
+description: '1st Workshop on Scientific-Driven Deep Learning'
 permalink: pretty
 #logo: ""
 
