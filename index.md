@@ -17,16 +17,22 @@ feature_text:
 
 
 ##### Key Note Speakers
-* [George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) (Brown University) [paper](https://arxiv.org/abs/1910.03193) (video)[https://youtu.be/6WVRZt9_pWM]
+* [George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) (Brown University) [paper](https://arxiv.org/abs/1910.03193) [video](https://youtu.be/6WVRZt9_pWM)
 	- Title: DeepOnet: Learning nonlinear operators based on the universal approximation theorem of operators
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6WVRZt9_pWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Michael P. Brenner](https://www.seas.harvard.edu/brenner/Home.html) (Harvard University)
+	- Title: Machine Learning for Partial Differential Equations
+
 
 
 ##### Invited Speakers
-* [Frank Noe](http://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/) (FU Berlin)
+* [Frank Noe](http://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/) (FU Berlin) [paper](https://arxiv.org/abs/1909.08423) [video](https://youtu.be/adyRgnQXQhI)
+	- Title: PauliNet: Deep neural network solution of the electronic Schrödinger Equation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/adyRgnQXQhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * [Lars Ruthotto](http://www.mathcs.emory.edu/~lruthot/) (Emory University)
 * [Yasaman Bahri](https://yasamanb.github.io/) (Google Brain)
 * [Omri Azencot](http://omriazencot.com/) (UCLA)
