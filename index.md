@@ -14,14 +14,11 @@ feature_text:
 <p style='text-align: justify;'> Deep learning is playing a growing role in the area of fluid dynamics, climate science and in many other scientific disciplines. Classically, deep learning has focused on an model agnostic learning approaches ignoring any prior knowledge that is known about the problem under consideration. However, limited data can severely challenge our ability to train complex and deep models for scientific applications. This workshop focuses on scientific-driven deep learning to explore challenges and solutions for more robust and interpretable learning.
  </p>
 
-<div class="embeddable_schedule" shortname="SciDL" daterange="future" sitefooter></div>
-<script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
 
 
 ##### Key Note Speakers
-* [George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) (Brown University) [paper](https://arxiv.org/abs/1910.03193) (video)[]
-- Title: DeepOnet: Learning nonlinear operators based on the universal approximation theorem of operators
-- Abstract: It is widely known that neural networks (NNs) are universal approximators of continuous functions, however, a less known but powerful result is that a NN with a single hidden layer can approximate accurately any nonlinear continuous operator. This universal approximation theorem of operators is suggestive of the potential of NNs in learning from scattered data any continuous operator or complex system. To realize this theorem, we design a new NN with small generalization error, the deep operator network (DeepONet), consisting of a NN for encoding the discrete input function space (branch net) and another NN for encoding the domain of the output functions (trunk net). We demonstrate that DeepONet can learn various explicit operators, e.g., integrals and fractional Laplacians, as well as implicit operators that represent deterministic and stochastic differential equations. We study, in particular, different formulations of the input function space and its effect on the generalization error.
+* [George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) (Brown University) [paper](https://arxiv.org/abs/1910.03193) (video)[https://youtu.be/6WVRZt9_pWM]
+	- Title: DeepOnet: Learning nonlinear operators based on the universal approximation theorem of operators
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6WVRZt9_pWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
