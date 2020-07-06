@@ -34,6 +34,7 @@ feature_text:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/adyRgnQXQhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Alejandro Queiruga](https://afqueiruga.github.io/) (Google, LLC) [video](https://youtu.be/_aX3T1Smg54)
+	- Title: Continuous-in-Depth Neural Networks
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_aX3T1Smg54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
